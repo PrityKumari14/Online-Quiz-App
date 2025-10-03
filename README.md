@@ -29,7 +29,7 @@ It’s a simple project to understand **Java classes, lists, user input, and con
    * Stores the question text, options, and the correct answer.
    * Contains a method `checkAnswer()` to verify user input.
 
-2. **`QuizApp` Class (Main)**
+2. **`OnlineQuizApp` Class (Main)**
 
    * Uses a **List of questions** (`ArrayList<Question>`) to store multiple quiz questions.
    * Displays each question with four options (A, B, C, D).
