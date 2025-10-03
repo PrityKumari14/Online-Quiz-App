@@ -99,6 +99,5 @@ Your Score: 1/2
 * Easy-to-use console interface.
 * Multiple-choice questions.
 * Score tracking system.
-* Extendable → Just add more questions to the list.
 
 ---
